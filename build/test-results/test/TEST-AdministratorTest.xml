@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdministratorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-02-28T13:07:32" hostname="WGC1003NZZ4B3" time="0.045">
+  <properties/>
+  <testcase name="addChairsTest()" classname="AdministratorTest" time="0.021"/>
+  <testcase name="addTablesTest()" classname="AdministratorTest" time="0.001"/>
+  <testcase name="removeChairsTest()" classname="AdministratorTest" time="0.012"/>
+  <testcase name="addProjectorTest()" classname="AdministratorTest" time="0.002"/>
+  <testcase name="removeProjectorTest()" classname="AdministratorTest" time="0.001"/>
+  <testcase name="removeTablesTest()" classname="AdministratorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
